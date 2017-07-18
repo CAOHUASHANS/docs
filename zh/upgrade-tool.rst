@@ -7,7 +7,7 @@ CakePHP 2.x 升级到 CakePHP 3 需要做一些列的操作，但是这些操作
 
 安装
 ============
-升级工具是作为一个独立的应用安装的，需要使用git工具克隆一份升级工具包，并且使用composer工具安装先关依赖::
+升级工具是作为一个独立的应用安装的，需要使用git工具克隆一份升级工具包，并且使用composer工具安装相关依赖::
 
     git clone https://github.com/cakephp/upgrade.git
     cd upgrade
