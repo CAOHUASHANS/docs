@@ -3,5 +3,5 @@
 Not Found
 #########
 
-The page you're looking for cannot be found. Try using the search bar to find
-what you're looking for.
+你查看的页面没有找到，可以通过搜索栏查找你想要的信息。
+
